@@ -1,0 +1,15 @@
+HTTP/2 200 
+date: Thu, 18 Jun 2026 12:39:03 GMT
+content-type: application/json
+content-length: 101
+server: cloudflare
+cache-control: public, max-age=21600
+retry-after: 21600
+strict-transport-security: max-age=15552000
+accept-ranges: bytes
+set-cookie: __cf_bm=dCqJ3paj4iS8hEb6LuTgjL0ql6Z3Jwy8XHPj76FJL9k-1781786343.1262398-1.0.1.1-m9y1_fBvEHAyHTTbFXM1KUv5Ew2IVQQFgxS4nsgVYCzCSfDUfWd7HxIQHzSV5hdcmJEMhPwB7rTBirXhhJn0rj9KUWn0GFC_gNXfwxe8x2XYh8ZVi.KrQhpwq2T6AIAw; HttpOnly; SameSite=None; Secure; Path=/; Domain=trust-provider.com; Expires=Thu, 18 Jun 2026 13:09:03 GMT
+last-modified: Thu, 18 Jun 2026 12:39:03 GMT
+expires: Thu, 18 Jun 2026 18:39:03 GMT
+cf-cache-status: EXPIRED
+cf-ray: a0da5ac488be5e7a-EWR
+
